@@ -2,7 +2,7 @@
 title: "Owen Graham"
 links:
   - label: GV300 Showcase
-    url: " "        # add the url somehow 
+    url: " "        
 output:
   postcards::jolla  
 ---
