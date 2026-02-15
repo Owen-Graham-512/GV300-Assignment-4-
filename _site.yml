@@ -1,7 +1,7 @@
-name: "Owen Graham Github Distill Website"
-title: "My Website"
+name: "Owen Graham RStudio Github Distill Website"
+title: "mfeo"
 description: |
-  My Website
+  mfeo
 output_dir: "_site"
 navbar:
   right:
@@ -9,4 +9,7 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Assignment"              
+      href: Assignment.html           
 output: distill::distill_article
+
