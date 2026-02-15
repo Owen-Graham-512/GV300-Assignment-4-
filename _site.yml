@@ -2,7 +2,7 @@ name: "Owen Graham RStudio Github Distill Website"
 title: "mfeo"
 description: |
   mfeo
-output_dir: "_site"
+output_dir: "."
 navbar:
   right:
     - text: "Home"
