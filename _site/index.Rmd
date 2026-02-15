@@ -1,0 +1,16 @@
+---
+title: "Owen Graham"
+links:
+  - label: GV300 Showcase
+    url: "https://owen-graham-512.github.io/GV300-Assignment-4-/Assignment.html"        
+output:
+  postcards::jolla  
+---
+ 
+I am a third year undergraduate Student at the University of Essex from London. 
+My primary academic interests include development, both on a domestic, even 
+local, as well as international stage, and the data analysis behind them.
+Other interests include Corruption and the relationship between Government and
+the media. 
+
+

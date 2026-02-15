@@ -1,0 +1,5 @@
+---
+title: "About this site"
+description: |
+  This website is a showcase of coding and data visualisations as a part of my GV300 module at the University of Essex
+---
